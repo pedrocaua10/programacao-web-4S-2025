@@ -11,4 +11,7 @@ console.log(`Resultado da subtracao entre ${num_A} e ${num_B}: ${subtracao}`);
 console.log(
   `Resultado da multiplicacao entre ${num_A} e ${num_B}: ${multiplicacao}`
 );
+
+
+console.log(`Resultado da divisao entre ${num_A} e ${num_B}: ${divisao}`)
 console.log(`Resultado da divisao entre ${num_A} e ${num_B}: ${divisao}`);
